@@ -12,7 +12,16 @@
       REAL*8      ANPSO(M1M,M2M,M3M),DENSC,DENSCF  
       REAL*8      DH(0:M1,0:M2,0:M3,3)    
 
-     
+!(1) obtain NSPHI
+
+!(2) obtain dphidx
+
+!(3) obtain Hx,Hy,Hz : adequately saved
+
+!(4) export the obtained values
+
+
+      
       
       
       
